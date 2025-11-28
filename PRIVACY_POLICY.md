@@ -46,7 +46,7 @@ FlowClip requests only the permissions necessary for video editing:
 |------------|-----------------|-----------|
 | `READ_MEDIA_VIDEO` | Select videos to edit | When you import video |
 | `READ_MEDIA_AUDIO` | Select audio for projects | When you import audio |
-| `INTERNET` | Download fonts for text overlays | When using Google Fonts |
+| `INTERNET` | Required by the Flutter engine and select plugins. FlowClip does not send or receive user data over the network. | Not used during typical editing |
 | `VIBRATION` | Haptic feedback (optional) | UI interactions |
 
 ### About Media Access
@@ -59,13 +59,13 @@ FlowClip requests only the permissions necessary for video editing:
 
 ## Third-Party Services
 
-### Google Fonts
+### Google Fonts (Bundled Offline)
 
-FlowClip uses Google Fonts to provide font options for text overlays.
+FlowClip packages the Google Fonts families it offers directly inside the app bundle. The app does **not** contact Google or download fonts at runtime.
 
-- **Data sent:** Font file requests only (no personal data)
-- **Purpose:** Download font files for text rendering
-- **Privacy:** [Google Fonts Privacy](https://developers.google.com/fonts/faq/privacy)
+- **Data sent:** None
+- **Purpose:** Provide high-quality typography using on-device assets
+- **Privacy:** No data leaves your device; see [Google Fonts FAQ](https://developers.google.com/fonts/faq/privacy) for license reference only
 
 ### FFmpeg
 
@@ -126,4 +126,3 @@ For questions about this Privacy Policy:
 ## Summary
 
 **FlowClip is a privacy-first video editor. We don't collect your data, we don't track you, and your videos never leave your device. Everything stays under your control.**
-
