@@ -1,6 +1,6 @@
 # Privacy Policy for FlowClip
 
-**Last Updated:** March 4, 2026  
+**Last Updated:** March 26, 2026  
 **Developer:** Melibyte Apps  
 **Package:** com.melibyte.flowclip
 
