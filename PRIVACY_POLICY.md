@@ -1,6 +1,6 @@
 # Privacy Policy for FlowClip
 
-**Last Updated:** March 26, 2026  
+**Last Updated:** March 27, 2026  
 **Developer:** Melibyte Apps  
 **Package:** com.melibyte.flowclip
 
@@ -111,6 +111,8 @@ FlowClip requests permissions strictly for functionality:
 |---|---|
 | `READ_MEDIA_VIDEO` | To select videos for editing. |
 | `READ_MEDIA_AUDIO` | To select music/audio for your project. |
+| `READ_MEDIA_IMAGES` | To browse and select photos from your gallery for editing. |
+| `READ_MEDIA_VISUAL_USER_SELECTED` | To support Android 13+'s partial media access ("Selected Photos"), allowing you to grant access to only specific photos/videos rather than your entire gallery. |
 | `CAMERA` | To record video directly from your device camera for importing into the timeline. All recordings stay on your device. |
 | `RECORD_AUDIO` | To record voice/audio directly from your device microphone for importing into the timeline. All recordings stay on your device. |
 | `INTERNET` | Required by Firebase (Auth, Firestore, Analytics, Crashlytics), Play Integrity, and Community Workshop. **Your media files are NOT sent over the internet.** |
