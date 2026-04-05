@@ -1,6 +1,6 @@
 # Privacy Policy for FlowClip
 
-**Last Updated:** March 27, 2026  
+**Last Updated:** April 5, 2026  
 **Developer:** Melibyte Apps  
 **Package:** com.melibyte.flowclip
 
@@ -31,6 +31,8 @@ If you publish a custom shader effect to the Community Workshop, the following i
 - ✅ **Shader Code (GLSL)**: The source code of your custom effect.
 - ✅ **Effect Metadata**: Name, description, and parameter definitions of your effect.
 - ✅ **Author Attribution**: Your chosen username and User ID, so the community knows who created the effect.
+
+> **Gallery Archive**: At the end of each monthly cycle, top shaders may be permanently inducted into the FlowClip Gallery. Inducted shaders (including your shader code, metadata, and username) are transferred to and stored on **Cloudflare R2** cloud object storage, where they remain publicly accessible indefinitely. See §Third-Party Services for details.
 
 #### 3. Analytics & Crash Data (Automatic)
 We use **Firebase Services (Google)** to collect the following **anonymous** data:
@@ -81,11 +83,18 @@ We use the following third-party services:
 - **Data Collected**: Integrity tokens containing device signals.
 - **Privacy Policy**: [Google Play Data Safety](https://developer.android.com/google-play/guides/data-safety)
 
-### 6. FFmpeg
+### 6. Cloudflare R2 Object Storage
+**Purpose**: To host the permanent FlowClip Gallery archive of inducted community shaders.
+- **Data Stored**: Shader code (GLSL), effect metadata, and author username for shaders inducted into the Gallery at the end of a monthly cycle.
+- **Visibility**: Gallery content is publicly readable by all FlowClip users.
+- **Retention**: Permanent (Gallery shaders are not deleted after induction).
+- **Privacy Policy**: [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/)
+
+### 7. FFmpeg
 **Purpose**: Video processing engine.
 - **Data Sent**: None (Runs securely on-device).
 
-### 7. Hugging Face (AI Model Download)
+### 8. Hugging Face (AI Model Download)
 **Purpose**: To download on-device AI speech recognition models for the Auto-Caption feature.
 - **Data Sent**: None. Only a standard HTTPS download request is made to retrieve the AI model file. Your IP address is visible to Hugging Face's servers during this download.
 - **Data Processed Locally**: Your audio is processed entirely on your device using the downloaded model. No audio is ever sent to any server.
@@ -98,8 +107,9 @@ We use the following third-party services:
 - **Local Media**: Your projects, media files, and exported videos remain on your device at all times.
 - **Account Data**: Stored securely in Google's Cloud Firestore with strict access controls. Your private profile (including email) can only be read by you.
 - **Community Data**: Published shaders and your public username are visible to all users of the Community Workshop.
+- **Gallery Data**: Shaders inducted into the FlowClip Gallery are stored on Cloudflare R2 and are publicly accessible indefinitely. This data is not deleted on request, as it forms a permanent curated archive.
 - **Transmission**: All data is transmitted securely via HTTPS encryption.
-- **Retention**: Firebase Analytics data is retained according to Google's standard retention policies (typically 2–14 months). Account and community data is retained until you delete it.
+- **Retention**: Firebase Analytics data is retained according to Google's standard retention policies (typically 2–14 months). Active community data is retained until you delete it or the monthly cycle ends. Gallery-inducted data is retained permanently.
 
 ---
 
@@ -125,7 +135,7 @@ You have full control over your data:
 
 - **Don't Sign In**: All core editing features work without an account. No personal data is collected.
 - **Delete Your Account Data**: You can request deletion of your account and all associated data by contacting us at the email below.
-- **Delete Published Shaders**: You can delete your own published shaders at any time from the Profile tab.
+- **Delete Published Shaders**: You can delete your own published shaders at any time during the active monthly cycle from the Profile tab. Note: shaders that have been inducted into the permanent FlowClip Gallery cannot be removed on request, as they form part of the curated public archive.
 - **Sign Out**: You can sign out at any time from the Profile tab, which stops all account-related data syncing.
 - **Uninstall**: Uninstalling the app stops all data collection. Local data is removed from your device.
 - **Android Settings**: You can revoke file permissions at any time.
