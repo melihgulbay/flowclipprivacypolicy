@@ -38,7 +38,7 @@ These Terms of Service govern your use of the FlowClip Community Workshop and al
 - ✅ Create and publish custom shader effects
 - ✅ Browse, download, and use shaders created by others
 - ✅ Like shaders you enjoy
-- ✅ Update or delete your own published shaders **during the active monthly cycle**
+- ✅ Update or delete your own published shaders at any time
 - ✅ Report shaders or users that violate these terms
 
 ### What You Cannot Do
@@ -54,20 +54,12 @@ These Terms of Service govern your use of the FlowClip Community Workshop and al
 
 ---
 
-## 5. Monthly Competition Cycle
+## 5. Content Retention & Deletion
 
-The FlowClip Community Workshop operates on a **monthly competition cycle**:
-
-- **Active period:** Shaders are live in the community for the duration of the calendar month in which they were published.
-- **Monthly reset:** At the end of each month, all shaders in the community are removed from the public listing to make room for the next cycle. This is a scheduled, non-discriminatory process — not a moderation action.
-- **Induction into the Gallery:** The top shaders by likes (subject to a minimum threshold and editorial discretion) are permanently inducted into the **FlowClip Gallery**, a curated archive accessible within the app.
-- **Your local copies are yours:** Any shader you have downloaded locally before the monthly reset is yours to keep and use indefinitely in FlowClip, regardless of whether it was inducted into the Gallery.
-- **No guaranteed induction:** Receiving likes does not guarantee induction. Melibyte Apps reserves the right to curate the Gallery, including excluding shaders for quality, policy, or other reasons.
-- **Your ownership is unaffected:** Removal from the community listing at month end does not affect your ownership of the shader code. You may republish it in a future cycle.
-
-By publishing to the Community Workshop, you acknowledge and accept that your shader will be removed from the community listing at the end of the monthly cycle, regardless of its performance.
-
-> **Notice:** The monthly competition cycle is planned to launch in 2026. We are disclosing this in advance so that existing community members are not caught off guard when the system goes into effect. The exact start date will be announced via in-app notice before activation.
+- **Persistent Hosting:** Shaders published to the Community Workshop will remain hosted and publicly visible to all users indefinitely. There are no automated monthly resets.
+- **Your Right to Delete:** You can delete your own published shaders at any time from your in-app profile tab. Deleting a shader immediately removes it from the public workshop index.
+- **Local Downloads Remain:** Any user who has downloaded your shader locally before you deleted it from the public database retains the right to keep using it locally within their projects.
+- **Enforcement & Removal:** Melibyte Apps reserves the right to remove any shader from the public workshop at any time, without prior notice, if it is found to violate these terms or Google Play developer policies.
 
 ---
 
@@ -100,9 +92,8 @@ The following content and behaviors are **strictly prohibited** in the FlowClip 
 
 - You **retain ownership** of the shader code you create and publish. Melibyte Apps does not claim ownership over your intellectual property.
 - By publishing to the FlowClip Workshop, you grant all FlowClip users a **non-exclusive, royalty-free, worldwide license to download and use** your shader **for personal, non-commercial purposes** within the FlowClip app. This license persists for users who downloaded the shader before deletion.
-- By publishing, you additionally grant Melibyte Apps a perpetual, irrevocable right to **archive your shader in the FlowClip Gallery** (hosted on third-party object storage) if it is inducted at the end of a monthly cycle. Gallery shaders remain downloadable by all users.
+- By publishing, you additionally grant Melibyte Apps a perpetual, royalty-free, worldwide license to host, transmit, display, and distribute your shader to facilitate the community workshop functionality.
 - If you enable "Protect Source Code," the app UI will hide your shader code from other users. However, this is a **client-side protection** and does not constitute encryption or DRM.
-- You may **delete your shaders** at any time during the active monthly cycle, which removes them from the community listing. Users who previously downloaded the shader retain the right to continue using it locally.
 - You represent and warrant that you have the right to publish any content you upload and that it does not infringe on any third party's intellectual property or other rights.
 
 ---
@@ -134,9 +125,9 @@ We reserve the right to:
 - Modify or discontinue the community workshop at any time
 
 Upon termination of your account or access, or upon your voluntary request for account deletion:
-- Your active published shaders may be removed from the active community listing.
+- Your active published shaders may be removed from the public community listing.
 - Users who previously downloaded your shaders retain the right to use them locally.
-- **Anonymization of Archived Content:** In accordance with privacy regulations (such as GDPR), if you delete your account, any of your shaders permanently archived in the FlowClip Gallery will remain in the database to preserve the curated public library, but the author attribution will be permanently anonymized (e.g., changed to "Anonymous" or "Deleted Creator") and all links to your personal profile will be destroyed.
+- **Anonymization of Active Content:** In accordance with privacy regulations (such as GDPR), if you delete your account, any of your shaders that remain active in the system to preserve other users' project integrity will have their author attribution permanently anonymized (e.g., changed to "Anonymous" or "Deleted Creator") and all links to your personal profile will be destroyed.
 - You may not create a new account to circumvent a termination.
 
 ---
