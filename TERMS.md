@@ -54,10 +54,11 @@ These Terms of Service govern your use of the FlowClip Community Workshop and al
 
 ---
 
-## 5. Content Retention & Deletion
+## 5. Content Retention, Deletion & Archiving
 
 - **Persistent Hosting:** Shaders published to the Community Workshop will remain hosted and publicly visible to all users indefinitely. There are no automated monthly resets.
-- **Your Right to Delete:** You can delete your own published shaders at any time from your in-app profile tab. Deleting a shader immediately removes it from the public workshop index.
+- **Your Right to Delete:** You can request to delete your own published shaders from your in-app profile tab. Deleting a shader removes it from your public profile listing. 
+- **Retention of Code for Platform Integrity:** To maintain application stability and prevent projects created by other users from breaking, the core shader code and parameters of deleted shaders may be persistently retained in our database. In such cases, we exercise our right under §7 to anonymize or re-attribute the shader as described below.
 - **Local Downloads Remain:** Any user who has downloaded your shader locally before you deleted it from the public database retains the right to keep using it locally within their projects.
 - **Enforcement & Removal:** Melibyte Apps reserves the right to remove any shader from the public workshop at any time, without prior notice, if it is found to violate these terms or Google Play developer policies.
 
@@ -90,9 +91,9 @@ The following content and behaviors are **strictly prohibited** in the FlowClip 
 
 ## 7. Content Ownership & License
 
-- You **retain ownership** of the shader code you create and publish. Melibyte Apps does not claim ownership over your intellectual property.
-- By publishing to the FlowClip Workshop, you grant all FlowClip users a **non-exclusive, royalty-free, worldwide license to download and use** your shader **for personal, non-commercial purposes** within the FlowClip app. This license persists for users who downloaded the shader before deletion.
-- By publishing, you additionally grant Melibyte Apps a perpetual, royalty-free, worldwide license to host, transmit, display, and distribute your shader to facilitate the community workshop functionality.
+- **Your Ownership:** You **retain ownership** of the shader code you create and publish. Melibyte Apps does not claim ownership over your intellectual property.
+- **License to Users:** By publishing to the FlowClip Workshop, you grant all FlowClip users a **non-exclusive, royalty-free, worldwide license to download and use** your shader **for personal, non-commercial purposes** within the FlowClip app. This license persists for users who downloaded the shader before deletion.
+- **Broad License to Melibyte Apps:** By publishing, you additionally grant Melibyte Apps a **perpetual, irrevocable, royalty-free, sublicensable, and worldwide license** to host, transmit, display, distribute, modify, run, and create derivative works of your shader code. This broad license allows us to facilitate community workshop functionality, maintain the public repository, and **keep, modify, or re-publish the shader under our own developer name ("Melibyte Apps") or as "Anonymous" if you choose to delete your shader or account.**
 - If you enable "Protect Source Code," the app UI will hide your shader code from other users. However, this is a **client-side protection** and does not constitute encryption or DRM.
 - You represent and warrant that you have the right to publish any content you upload and that it does not infringe on any third party's intellectual property or other rights.
 
@@ -125,9 +126,9 @@ We reserve the right to:
 - Modify or discontinue the community workshop at any time
 
 Upon termination of your account or access, or upon your voluntary request for account deletion:
-- Your active published shaders may be removed from the public community listing.
+- Your active published shaders may be removed from your public user profile.
 - Users who previously downloaded your shaders retain the right to use them locally.
-- **Anonymization of Active Content:** In accordance with privacy regulations (such as GDPR), if you delete your account, any of your shaders that remain active in the system to preserve other users' project integrity will have their author attribution permanently anonymized (e.g., changed to "Anonymous" or "Deleted Creator") and all links to your personal profile will be destroyed.
+- **Re-Publishing & Anonymization:** In accordance with privacy regulations (such as GDPR), if you delete your account, your personal data will be purged. However, any shader code you published will remain licensed to us under §7. We reserve the right to maintain these shaders in the community library to prevent service disruption, permanently anonymize the author attribution (e.g., re-attributing the shader to "Anonymous", "Deleted Creator", or "Melibyte Apps"), and sever all connections to your deleted personal profile.
 - You may not create a new account to circumvent a termination.
 
 ---
@@ -176,4 +177,4 @@ For questions, concerns, or reports regarding these Terms of Service:
 
 ## Summary
 
-**Publish what you want, but keep it clean and respectful. Don't spam, don't steal, and don't be offensive. We'll remove content that breaks these rules. Your shaders stay yours, but you let others use them inside the app.**
+**Publish what you want, but keep it clean and respectful. Don't spam, don't steal, and don't be offensive. We'll remove content that breaks these rules. Your shaders stay yours, but you grant us and other users a perpetual license to use, host, and display them inside the app (even if you delete your profile).**
