@@ -1,6 +1,6 @@
 # Terms of Service for FlowClip
 
-**Last Updated:** April 5, 2026  
+**Last Updated:** July 14, 2026  
 **Developer:** Melibyte Apps  
 **Package:** com.melibyte.flowclip
 
@@ -98,9 +98,9 @@ The following content and behaviors are **strictly prohibited** in the FlowClip 
 
 ## 7. Content Ownership & License
 
-- You **retain ownership** of the shader code you create and publish.
-- By publishing to the FlowClip Workshop, you grant all FlowClip users a **non-exclusive, royalty-free, worldwide license to download and use** your shader within the FlowClip app. This license persists for users who downloaded the shader before deletion.
-- By publishing, you additionally grant Melibyte Apps the right to **archive your shader in the FlowClip Gallery** (hosted on third-party object storage) if it is inducted at the end of a monthly cycle. Gallery shaders remain downloadable by all users.
+- You **retain ownership** of the shader code you create and publish. Melibyte Apps does not claim ownership over your intellectual property.
+- By publishing to the FlowClip Workshop, you grant all FlowClip users a **non-exclusive, royalty-free, worldwide license to download and use** your shader **for personal, non-commercial purposes** within the FlowClip app. This license persists for users who downloaded the shader before deletion.
+- By publishing, you additionally grant Melibyte Apps a perpetual, irrevocable right to **archive your shader in the FlowClip Gallery** (hosted on third-party object storage) if it is inducted at the end of a monthly cycle. Gallery shaders remain downloadable by all users.
 - If you enable "Protect Source Code," the app UI will hide your shader code from other users. However, this is a **client-side protection** and does not constitute encryption or DRM.
 - You may **delete your shaders** at any time during the active monthly cycle, which removes them from the community listing. Users who previously downloaded the shader retain the right to continue using it locally.
 - You represent and warrant that you have the right to publish any content you upload and that it does not infringe on any third party's intellectual property or other rights.
@@ -125,7 +125,7 @@ The following content and behaviors are **strictly prohibited** in the FlowClip 
 
 ---
 
-## 9. Termination
+## 9. Termination & Account Deletion
 
 We reserve the right to:
 - Remove any content at our **sole discretion**, with or without reason and without prior notice (including but not limited to content that violates these terms, is low quality, or is otherwise deemed unsuitable for the community)
@@ -133,10 +133,11 @@ We reserve the right to:
 - Restrict or terminate access to community features for users who violate these terms
 - Modify or discontinue the community workshop at any time
 
-Upon termination of your account or access:
-- Your published shaders may be removed from the community listing
-- Users who previously downloaded your shaders retain the right to use them locally
-- You may not create a new account to circumvent the termination
+Upon termination of your account or access, or upon your voluntary request for account deletion:
+- Your active published shaders may be removed from the active community listing.
+- Users who previously downloaded your shaders retain the right to use them locally.
+- **Anonymization of Archived Content:** In accordance with privacy regulations (such as GDPR), if you delete your account, any of your shaders permanently archived in the FlowClip Gallery will remain in the database to preserve the curated public library, but the author attribution will be permanently anonymized (e.g., changed to "Anonymous" or "Deleted Creator") and all links to your personal profile will be destroyed.
+- You may not create a new account to circumvent a termination.
 
 ---
 
@@ -184,4 +185,4 @@ For questions, concerns, or reports regarding these Terms of Service:
 
 ## Summary
 
-**Publish what you want, but keep it clean and respectful. Don't spam, don't steal, and don't be offensive. We'll remove content that breaks these rules.**
+**Publish what you want, but keep it clean and respectful. Don't spam, don't steal, and don't be offensive. We'll remove content that breaks these rules. Your shaders stay yours, but you let others use them inside the app.**
